@@ -1,6 +1,4 @@
 streamlit
 pandas
 openpyxl
-opencv-python-headless
-pyzbar
 Pillow
